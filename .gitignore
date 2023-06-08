@@ -1,0 +1,5 @@
+*.log
+*.html
+scr/*
+DS_Store
+  # these files are gitignore files
